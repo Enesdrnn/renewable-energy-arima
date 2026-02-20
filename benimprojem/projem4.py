@@ -39,7 +39,7 @@ import statsmodels.api as sm
 # =========================
 # 0) AYARLAR
 # =========================
-DATA_FILE = r"C:\Users\Kutay\Desktop\bizimproje\clean_fuels.csv"
+DATA_FILE = r"C:\Users\enesd\Desktop\bizimproje\clean_fuels.csv"
 COUNTRY_CODE = "TUR"
 
 YEAR_MIN = 1960
