@@ -11,11 +11,11 @@ Move the CSV file into the project root directory.
 Example structure:
 
 renewable-energy-arima/
-│
-├── projem4.py
-├── clean_fuels.csv
-├── outputs/
-└── README.md
+|
+----> projem4.py
+----> clean_fuels.csv
+----> outputs/
+----> README.md
 
 ### Step 3 – Update File Path (if needed)
 
